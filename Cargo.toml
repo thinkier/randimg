@@ -1,0 +1,8 @@
+[package]
+name = "randimg"
+version = "0.1.0"
+authors = ["ConcurrentMarxistGC <concurrentmarxistgc@users.noreply.github.com>"]
+
+[dependencies]
+rand = "^0.4"
+image = "*"
